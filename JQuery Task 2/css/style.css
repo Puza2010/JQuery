@@ -1,0 +1,19 @@
+ul {
+	list-style: none outside none;
+	width: 2000px; 
+}
+
+li {
+	list-style: none outside none;
+	float: right;
+	width: 400px;
+	height: 400px;
+}
+
+#carousel {
+	display: block;
+	margin: auto;
+	width: 400px;
+	height: 400px; 
+	overflow: hidden;
+}
